@@ -1,5 +1,5 @@
-* go-openzwave
- This is a fork of ninjasphere/go-openzwave. I've updated it to build with modern version of the open-zwave library and exposed new features.
+# go-openzwave
+This is a fork of ninjasphere/go-openzwave. I've updated it to build with modern version of the open-zwave library and exposed new features.
 
 
 
